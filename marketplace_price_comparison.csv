@@ -1,0 +1,5 @@
+product_type,product_name,brand,ram,storage,Amazon,Flipkart,Price Difference,Cheaper Marketplace
+Laptop,Example Laptop A,HP,16GB,512GB SSD,52999.0,50999.0,2000.0,Flipkart
+Laptop,Example Laptop B,Lenovo,16GB,1TB SSD,61999.0,,,Same Price
+Mobile,Example Smartphone A,Samsung,8GB,128GB,24999.0,23999.0,1000.0,Flipkart
+Mobile,Example Smartphone B,OnePlus,8GB,256GB,27999.0,,,Same Price
