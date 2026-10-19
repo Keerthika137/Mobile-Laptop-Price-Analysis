@@ -1,0 +1,5 @@
+product_type,brand,average_price,lowest_price,highest_price,number_of_listings
+Laptop,HP,51999.0,50999,52999,2
+Laptop,Lenovo,61999.0,61999,61999,1
+Mobile,OnePlus,27999.0,27999,27999,1
+Mobile,Samsung,24499.0,23999,24999,2
