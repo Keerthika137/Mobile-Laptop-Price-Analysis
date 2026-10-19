@@ -6,6 +6,16 @@ The Mobile and Laptop Price Comparison Analysis project uses Python to analyze p
 
 **Note:** The initial dataset contains synthetic practice records. Actual marketplace conclusions require verified product listings.
 
+## 🚀 Live Dashboard
+
+Explore the deployed Mobile and Laptop Price Analysis dashboard:
+
+**[Open Live Dashboard](https://mobile-laptop-price-analysis-q55kmtxfi6amgkkxhccenl.streamlit.app/)**
+
+**GitHub Repository:** [View Source Code](https://github.com/Keerthika137/Mobile-Laptop-Price-Analysis)
+
+> **Note:** This project currently uses synthetic practice data for demonstration. The displayed prices are not verified live Amazon or Flipkart prices.
+
 ## 🎯 Project Objectives
 
 - Compare mobile and laptop prices across marketplaces.
