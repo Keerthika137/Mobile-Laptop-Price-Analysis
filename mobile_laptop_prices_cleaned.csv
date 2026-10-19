@@ -1,0 +1,7 @@
+product_type,product_name,brand,marketplace,price,rating,ram,storage,processor,product_url,collected_date
+Mobile,Example Smartphone A,Samsung,Amazon,24999,4.3,8GB,128GB,Example Processor,,2026-10-19
+Mobile,Example Smartphone A,Samsung,Flipkart,23999,4.2,8GB,128GB,Example Processor,,2026-10-19
+Mobile,Example Smartphone B,OnePlus,Amazon,27999,4.4,8GB,256GB,Example Processor,,2026-10-19
+Laptop,Example Laptop A,HP,Amazon,52999,4.2,16GB,512GB SSD,Example Processor,,2026-10-19
+Laptop,Example Laptop A,HP,Flipkart,50999,4.1,16GB,512GB SSD,Example Processor,,2026-10-19
+Laptop,Example Laptop B,Lenovo,Amazon,61999,4.5,16GB,1TB SSD,Example Processor,,2026-10-19
